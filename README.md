@@ -56,5 +56,5 @@ To start the application interface just run `npm run dev` on the root dir.
 
 [![License](http://img.shields.io/:license-mit-red.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](https://github.com/GabrielFraga962/Tesla_Homepage_Reactjs/blob/main/LICENSE)**;
+- **[MIT license](https://github.com/GabrielFraga962/Spotify_Api_Clone/blob/main/LICENSE)**;
 - Copyright 2022 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
