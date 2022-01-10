@@ -1,4 +1,4 @@
-# Spotify_Api_Clone
+# Spotify_Api_Clone 🎻
 
 - Build and clone Spotify using technologies: Middleware, Spotify API, Tailwind, NextAuth, Recoil
 
@@ -39,7 +39,7 @@ Spotify is a music, podcast and video streaming service that was officially laun
 
 ## Installation :wrench:
 
-First you need to clone the project using `https://github.com/GabrielFraga962/Tesla_Homepage_Reactjs.git`.
+First you need to clone the project using `https://github.com/GabrielFraga962/Spotify_Api_Clone.git`.
 
 You can install the application using `npm install` or `yarn install` on the root dir.
 
@@ -47,7 +47,7 @@ You can install the application using `npm install` or `yarn install` on the roo
 
 ## Start :on:
 
-To start the application interface just run `npm start` or `yarn start` on the root dir.
+To start the application interface just run `npm run dev` on the root dir.
 
 <br>
 
