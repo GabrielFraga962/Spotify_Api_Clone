@@ -60,5 +60,3 @@ To start the application interface just run `npm run dev` on the root dir.
 - Copyright 2022 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
 
 
-
-
