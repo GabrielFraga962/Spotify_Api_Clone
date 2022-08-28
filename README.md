@@ -1,5 +1,6 @@
 # Spotify_Api_Clone 🎻
 
+
 - Build and clone Spotify using technologies: Middleware, Spotify API, Tailwind, NextAuth, Recoil
 
 <p align="center">
